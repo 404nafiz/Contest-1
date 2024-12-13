@@ -17,5 +17,5 @@ int main()
     else
         cout << "Out of Intervals";
         
-    return 0;
+    
 }
